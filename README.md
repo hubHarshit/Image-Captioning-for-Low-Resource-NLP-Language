@@ -21,6 +21,6 @@ Approach 3- Kyrgyz Language
 This language gave the best result out of the three languages. We obsereved that this particular language had good resources on Azure. To utilize this, we first generated captions for the images using Azure Image captioning tool and then converetd these English captions to Kyrgyz using Language Translator. 
 
 
-The final model was evaluated using the Levenshtein Distance for which the final score was 58.58074 making our team stand at 4th position in Private Leaderboard.
+The final model was evaluated using the Levenshtein Distance for which the final score was 58.58074.
 
 
